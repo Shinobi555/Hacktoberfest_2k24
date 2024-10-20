@@ -53,6 +53,6 @@ git push origin your-feature-branch
 
 ## Code of Conduct
 
-Please review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). We want this to be a welcoming and inclusive community for all contributors.
+Please review and adhere to our [Code of Conduct](CONTRIBUTING.md). We want this to be a welcoming and inclusive community for all contributors.
 
 Happy hacking, and let's make Hacktoberfest 2023 a success! 🚀
