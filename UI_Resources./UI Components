@@ -1,0 +1,33 @@
+Material-UI (MUI)
+
+Link: https://mui.com/
+Use: A popular React component library that offers modern design principles, easy customization, and ready-to-use components.
+Ant Design
+
+Link: https://ant.design/
+Use: A design system tailored for enterprise-level applications, offering a rich set of components and design patterns.
+Tailwind UI
+
+Link: https://tailwindui.com/
+Use: A collection of high-quality, responsive UI components built with Tailwind CSS, perfect for custom design.
+Chakra UI
+
+Link: https://chakra-ui.com/
+Use: A simple and modular React component library that focuses on accessibility and ease of use.
+Bootstrap
+
+Link: https://getbootstrap.com/
+Use: A comprehensive front-end framework providing pre-built components and responsive layouts, widely used in web development.
+Semantic UI
+
+Link: https://semantic-ui.com/
+Use: A framework that simplifies development with human-friendly HTML, offering a variety of pre-designed components.
+Flowbite
+
+Link: https://flowbite.com/
+Use: A Tailwind CSS-based library offering free and premium UI components for faster development.
+Storybook
+
+Link: https://storybook.js.org/
+Use: A tool for building and testing UI components in isolation, great for UI documentation and collaboration.
+These resources will provide you with a variety of UI components and design systems to streamline your front-end development.
