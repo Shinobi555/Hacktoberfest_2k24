@@ -1,17 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basic Front-End</title>
+    <meta name="description" content="A basic front-end template with enhanced UI and accessibility.">
+    <meta name="keywords" content="HTML, CSS, JavaScript, Front-end">
+    <title>Improved Front-End</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
-    <div class="container">
-        <h1>Hello, World!</h1>
-        <button onclick="showMessage()">Click Me</button>
-        <p id="message"></p>
-    </div>
+    <main class="container" role="main">
+        <header>
+            <h1>Hello, World!</h1>
+        </header>
+        
+        <section aria-labelledby="interactive-section">
+            <button class="primary-btn" aria-pressed="false" aria-label="Show message" onclick="showMessage()">
+                Click Me
+            </button>
+            <p id="message" role="alert" aria-live="polite"></p>
+        </section>
+    </main>
     <script src="script.js"></script>
 </body>
+
 </html>
